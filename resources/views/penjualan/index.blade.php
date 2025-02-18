@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Sales</title>
+        <title>Penjualan</title>
     </head>
     <body>
         <h1>Halaman Penjualan</h1>
